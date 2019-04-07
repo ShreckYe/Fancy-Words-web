@@ -1,2 +1,2 @@
 # Fancy Words (web)
-A Java/Kotlin wordbook web app intended for keeping and strengthening one's vocubulary
+A wordbook web app intended for keeping and strengthening one's vocubulary with a Kotlin backend and a Vue.js frontend
